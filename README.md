@@ -19,6 +19,7 @@ https://github.com/zsims/hunt-and-peck/releases/tag/release%2F1.4
 1. Launch the executable.
 2. With any window focused, press Alt + ;
 3. An overlay window will be displayed, type any of the hint characters you see.
+4. Press Ctrl + ; to show hints for Windows taskbar, regardless of the focused window.
 
 Alternatively, Hunt and Peck can be launched via the command-line or AutoHotKey by specifying `/hint`:
 ```
