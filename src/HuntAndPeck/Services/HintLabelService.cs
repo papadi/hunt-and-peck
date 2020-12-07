@@ -39,7 +39,6 @@ namespace HuntAndPeck.Services
                 hintStrings.Add(NumberToHintString(i, hintCharacters, digitsNeeded));
             }
 
-            // Note that shuffle is lazy evaluated. Sigh.
             return hintStrings.ToList();
         }
 
